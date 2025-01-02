@@ -1,4 +1,4 @@
-# Chętni na współpracę w ramach repozytorium, code review, merge itp.
+ # Chętni na współpracę w ramach repozytorium, code review, merge itp.
 
 1. Piotr Bobiński Priv
 2. Szymon Sobczak 159854 (github weellss20)
@@ -6,4 +6,4 @@
 4. Rafał Kozioł
 5. Tomasz Gryboś (gitHub TomaszGrybos)
 6. Hubert Peciak
-   
+8. Dawid Klimczuk
